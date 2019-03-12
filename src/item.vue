@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="link">
-          <router-link to="/">go to list</router-link>
+          <router-link to="/">Back to list</router-link>
       </div>
       
   </div>
@@ -89,11 +89,13 @@ export default {
     text-align: left;
     padding:0 1rem;
 }
+.link {
+    margin-top: 2rem;
+}
 .link a.router-link-active {
     display: inline-block;
     padding: .3rem 2rem;
-    background: #89a3f7;
-    color: #695b8e;
+    background: #4169e9;
     border-radius: 3.2px;
     box-shadow: 1px 1px 1px 1px #b7b9b9;
 }

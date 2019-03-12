@@ -62,8 +62,7 @@ export default {
 
 ul {
   margin: 0;
-  padding: .1rem 1rem;
-  background: #efebe8;
+  padding: 0;
 }
 .show-info {
   padding: 1.6rem;

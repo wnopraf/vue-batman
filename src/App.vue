@@ -27,7 +27,6 @@ export default {
   margin-top: 60px;
   max-width: 1200px;
   margin: 0 auto;
-  background: whitesmoke;
 
 }
 a {
